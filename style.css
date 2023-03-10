@@ -1,5 +1,60 @@
-body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
+.head-section h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
+.head-section ul{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.head-section li{
+margin: 1%;
+list-style: none;
+}
+
+
+
+ section {
+  float: left;
+  align-items: center;
+
+  background-color:red
+}
+img {
+  margin-left: 550px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+  
+p{
+  text-align: center;
+}
+figcaption {
+  text-align: center;
+}
+title {
+  align-items: center;
+  text-align: center;
+}
+
+ul1 {text-align: center;
+
+  display: flex;
+  justify-content: baseline;
+  width: 2200px;
+  height: fit-content;
+  background-color: red;
+  margin left: 10px;
+  
+}
+li {
+  text-align: center;
+  align-items: center;
+  margin-left: 300px;
+  list-style: none;
+
+}
+
